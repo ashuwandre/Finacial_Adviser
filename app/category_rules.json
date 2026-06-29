@@ -1,0 +1,27 @@
+{
+  "Food": "Expense",
+  "Transportation": "Expense",
+  "Houshold": "Expense",
+  "Subsrption": "Expense",
+  "Family": "Expense",
+  "Health": "Expense",
+  "Tourism": "Expense",
+    "Gift": "Expense",
+    "Salary": "Income",
+    "Tax refund": "Income",    
+    
+        "Apperel": "Expense",   
+        "cook": "Expense",   
+     
+        "petty cash": "Expense", 
+        "maid": "Expense", 
+
+        "Monery transfer": "Transfer", 
+        "Fixed Deposit": "Transfer", 
+        "Maturity ammount": "Transfer", 
+        "Recurring Deposit": "Transfer", 
+         "Share Market": "Transfer", 
+        "Public Provident Fund": "Transfer"
+
+
+}
