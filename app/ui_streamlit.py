@@ -158,6 +158,54 @@ with st.sidebar:
     
     f = backend_get('/filers')
     year = f.get('year',[]) or []
-    st.session_state['categories'] = f.get('categories',[]) or []
-   
+    st.session_state['categories'] = f.get('categories',[]) or []    
+    st.caption(f'year: years[0].. {year[-1]}' if year else 'No year found')
+    
+    if st.button('Reload csv'):
+        backend_get('/reload')
+        
+    st.divider()
+    st.subheader('Upload csv')
+    uploaded = st.file_uploader('upload a csv an analysze' , type = ['csv'])
+    if uploaded is not None:
+        UPLOADES_DIR.mkdir(parents=True,exist_ok = True)
+        ts = int(time.time())
+        save_path = UPLOADS_DIR / f'upladed_{ts}.csv'
+        save_path.write_bytes(uploaded.getvalue())
+        backend_post('/set_csv',{'csv_path':str(save_path)})    
+        backend_get('/reload')
+        f2 = backend_get('/filters')
+        st.session_state['categories'] = f2.get(['categories',[]]) or []
+        
+unknown = st.session_state.get('unknown_categories') or []
+if unknown:
+    st.subheader('classify categories')
+    edits = {}
+    for c in unknown:
+        edits[c] = st.selectbox(c,
+                                ['Expense','Income','Transfer'],index = 0,key = f'class_c{c}')
+    
+    if st.button('save rules'):
+        for cat,dirction in edits.items():
+            backend_post('/rules',{'categories':cat,'direction':direction})
+        backend_get('/reload')
+        st.session_state['unknown_catergories']=[]
+        
+if 'messages' not in st.session_state:
+    st.session_state.messssage =[{'role':'assistant',
+                                  'content':'ask : spending of 2016.'}]
+for m in st.session_state.message:
+    with st.chat_messages(m['role']):
+        st.markdown(m['content'])
+        
+q = st.chat_input('ask a questions')
+if q:
+    st.seesion_state.messages.append({'role':'user','content':q})
+    with st.chat_mssages('user'):
+        st.markdown(q)
+        
+    with st.chat_message('assistand'):
+        ans = langraph_agent_answer(q)
+        st.markdown(ans)
+        st.session_state.message.aappend('role':'assistand','content':ans)        
 
