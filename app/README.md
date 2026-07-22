@@ -1,4 +1,4 @@
-# 💰 Financial Advisor AI
+# Financial Advisor AI
 
 An AI-powered financial advisor built using **Streamlit**, **LangGraph**, **LangChain**, and **Azure OpenAI**. The application allows users to analyze personal financial transactions, ask questions in natural language, upload new transaction files, receive spending insights, check live gold prices, and send financial reports via email.
 
@@ -6,7 +6,7 @@ An AI-powered financial advisor built using **Streamlit**, **LangGraph**, **Lang
 
 # Features
 
-### 📊 Spending Analysis
+### Spending Analysis
 
 * Analyze income and expenses.
 * View spending statistics by:
@@ -18,7 +18,7 @@ An AI-powered financial advisor built using **Streamlit**, **LangGraph**, **Lang
 * Calculate total income and expenses.
 * Generate financial summaries.
 
-### 🤖 AI Financial Assistant
+### AI Financial Assistant
 
 Powered by **Azure OpenAI** and **LangGraph**.
 
@@ -34,7 +34,7 @@ The AI automatically calls backend tools to retrieve the required information.
 
 ---
 
-### 📁 CSV Upload
+### CSV Upload
 
 Upload your bank transaction CSV file directly from the UI.
 
@@ -46,7 +46,7 @@ After uploading:
 
 ---
 
-### 🏷 Unknown Category Classification
+### Unknown Category Classification
 
 If new transaction categories are detected:
 
@@ -61,7 +61,7 @@ The rules are saved for future processing.
 
 ---
 
-### 📧 Email Reports
+### Email Reports
 
 The assistant can send financial summaries via email using SMTP.
 
@@ -71,7 +71,7 @@ Example prompt:
 
 ---
 
-### 🪙 Live Gold Price
+### Live Gold Price
 
 Fetches the latest gold spot price using the Metals Live API.
 
