@@ -21,7 +21,14 @@
         "Maturity ammount": "Transfer", 
         "Recurring Deposit": "Transfer", 
          "Share Market": "Transfer", 
-        "Public Provident Fund": "Transfer"
-
-
+        "Public Provident Fund": "Transfer",
+    "Housing": "Expense",
+    "Loan": "Expense",
+    "Insurance": "Expense",
+    "Education": "Expense",
+    "Utilities": "Expense",
+    "Household": "Expense",
+    "Credit Card": "Expense",
+    "Property": "Expense",
+    "Essential Living": "Expense"
 }

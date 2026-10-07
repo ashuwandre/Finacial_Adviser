@@ -1,0 +1,911 @@
+INFO:     Started server process [9528]
+INFO:     Waiting for application startup.
+StreamableHTTP session manager started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+Created new transport with session ID: 7ae14ab281b14d75b509aa5701f36ac4
+INFO:     127.0.0.1:56222 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56223 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:56224 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56225 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 7ae14ab281b14d75b509aa5701f36ac4
+INFO:     127.0.0.1:56226 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 713e0d22bd434d2295b5e245324a9638
+INFO:     127.0.0.1:53028 - "GET /mcp HTTP/1.1" 406 Not Acceptable
+Terminating session: 713e0d22bd434d2295b5e245324a9638
+Created new transport with session ID: 16f362aec1b748469ce38b655ed08e9f
+INFO:     127.0.0.1:54544 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54545 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54546 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64521 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 16f362aec1b748469ce38b655ed08e9f
+INFO:     127.0.0.1:64522 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 7b397dce452c4b6ba563980b671a0e1e
+INFO:     127.0.0.1:51093 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51094 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:51095 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51096 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 7b397dce452c4b6ba563980b671a0e1e
+INFO:     127.0.0.1:51097 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     Started server process [19576]
+INFO:     Waiting for application startup.
+StreamableHTTP session manager started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+Created new transport with session ID: aafb3c5578f44991a2612bf691b42432
+INFO:     127.0.0.1:49251 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49252 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:49253 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49254 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: aafb3c5578f44991a2612bf691b42432
+INFO:     127.0.0.1:49255 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: a37ce3fa43ff42559027ad57519cb282
+INFO:     127.0.0.1:58058 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58059 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58060 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58061 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: a37ce3fa43ff42559027ad57519cb282
+INFO:     127.0.0.1:58062 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     Started server process [14052]
+INFO:     Waiting for application startup.
+StreamableHTTP session manager started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+Created new transport with session ID: d92464e9a94b4f26bc439c54bd030145
+INFO:     127.0.0.1:57639 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57640 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57641 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57642 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: d92464e9a94b4f26bc439c54bd030145
+INFO:     127.0.0.1:57643 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 50232dff303c421fab48a9b3340827e6
+INFO:     127.0.0.1:54052 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54053 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54054 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54055 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:54057 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 50232dff303c421fab48a9b3340827e6
+INFO:     127.0.0.1:54058 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 920afeb77c3c4af482f2cae8f1829348
+INFO:     127.0.0.1:63572 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63573 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:63574 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63575 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 920afeb77c3c4af482f2cae8f1829348
+INFO:     127.0.0.1:63576 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: dedf10e7bd7649438f8c395184ad2d6b
+INFO:     127.0.0.1:54229 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54230 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54231 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54232 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:54234 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: dedf10e7bd7649438f8c395184ad2d6b
+INFO:     127.0.0.1:54235 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 5a7dcdf5684d40e392a2cc3c70e72c00
+INFO:     127.0.0.1:53306 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53307 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:53308 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:53309 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:53311 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 5a7dcdf5684d40e392a2cc3c70e72c00
+INFO:     127.0.0.1:53312 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 193062b4b92f4ddd83c85abad7165b55
+INFO:     127.0.0.1:64640 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64641 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64642 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64643 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:64645 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 193062b4b92f4ddd83c85abad7165b55
+INFO:     127.0.0.1:64646 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 36d549053198432cb6312e71c7dd8ff1
+INFO:     127.0.0.1:61560 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61561 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:61562 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61563 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:61565 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 36d549053198432cb6312e71c7dd8ff1
+INFO:     127.0.0.1:61566 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 644aabd3165d44058b1d03f5a2012b9e
+INFO:     127.0.0.1:56718 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56720 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:56721 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56722 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 644aabd3165d44058b1d03f5a2012b9e
+INFO:     127.0.0.1:56723 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 31ca513b07254c1d913d9d4af0e74567
+INFO:     127.0.0.1:50737 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50738 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50739 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50740 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:50742 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 31ca513b07254c1d913d9d4af0e74567
+INFO:     127.0.0.1:50743 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 8a7419eb84b8453eb4bf3916541f54cd
+INFO:     127.0.0.1:57153 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57154 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57155 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57156 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Terminating session: 8a7419eb84b8453eb4bf3916541f54cd
+INFO:     127.0.0.1:57158 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: ea7cf9eb005343d4b21666aecb3bcc77
+INFO:     127.0.0.1:60521 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60522 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60523 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60524 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: ea7cf9eb005343d4b21666aecb3bcc77
+INFO:     127.0.0.1:60525 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 66a636f25c9d4646ad0ed8c7fb32e2aa
+INFO:     127.0.0.1:57027 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57028 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57029 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57030 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57032 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 66a636f25c9d4646ad0ed8c7fb32e2aa
+INFO:     127.0.0.1:57033 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 1bbf11478d5145c7a042e6e496437a7d
+INFO:     127.0.0.1:57038 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57039 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57040 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57041 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57043 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 1bbf11478d5145c7a042e6e496437a7d
+INFO:     127.0.0.1:57044 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 664544218ec84e13bf2854a99c61f497
+INFO:     127.0.0.1:57049 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57050 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57051 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57052 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57057 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 664544218ec84e13bf2854a99c61f497
+INFO:     127.0.0.1:57058 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: a23e982b4fc94e6b9dbfb3b0fac0d470
+Created new transport with session ID: bfbe5e65111d4573aae03499c24e56b0
+INFO:     127.0.0.1:59732 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59733 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59734 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59735 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59736 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59737 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59739 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:59740 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:59742 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:59743 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: a23e982b4fc94e6b9dbfb3b0fac0d470
+INFO:     127.0.0.1:59744 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: bfbe5e65111d4573aae03499c24e56b0
+INFO:     127.0.0.1:59745 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 41852c201e634076b01778ae77de506d
+INFO:     127.0.0.1:50858 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50859 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50860 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50861 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 41852c201e634076b01778ae77de506d
+INFO:     127.0.0.1:50862 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: fb234c1209154ec29f3ec4620702dfe3
+INFO:     127.0.0.1:65427 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65428 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:65429 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65430 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:65432 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: fb234c1209154ec29f3ec4620702dfe3
+INFO:     127.0.0.1:65433 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 83097f24f13f4a78bf1cb944ace47b78
+INFO:     127.0.0.1:62462 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62463 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:62464 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:62465 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 83097f24f13f4a78bf1cb944ace47b78
+INFO:     127.0.0.1:62466 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     Started server process [12356]
+INFO:     Waiting for application startup.
+StreamableHTTP session manager started
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8001 (Press CTRL+C to quit)
+Created new transport with session ID: 1007cef11e1f4b43aa5b1870c5c8f50b
+INFO:     127.0.0.1:54873 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54874 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54875 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54876 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 1007cef11e1f4b43aa5b1870c5c8f50b
+INFO:     127.0.0.1:54877 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 885f8b748021459990d3f957d01dee57
+Created new transport with session ID: 718f8cc500cb4de98642ef6b8f39d907
+INFO:     127.0.0.1:64718 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64719 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64720 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64722 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64721 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64723 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64724 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:64725 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:64727 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:64728 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 885f8b748021459990d3f957d01dee57
+INFO:     127.0.0.1:64729 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 718f8cc500cb4de98642ef6b8f39d907
+INFO:     127.0.0.1:64730 - "DELETE /mcp HTTP/1.1" 200 OK
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Created new transport with session ID: 18ea0ae67367456f9fa9124b4bceeaf3
+INFO:     127.0.0.1:49970 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49971 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:49973 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49974 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 18ea0ae67367456f9fa9124b4bceeaf3
+INFO:     127.0.0.1:49975 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 557831984b9f4ede9ad486c0df8821e4
+INFO:     127.0.0.1:54199 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54200 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54201 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54202 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:54204 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 557831984b9f4ede9ad486c0df8821e4
+INFO:     127.0.0.1:54205 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: d4ea1620da8c46e989cf5df9a68322d0
+INFO:     127.0.0.1:64043 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64044 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64045 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64046 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:64047 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: d4ea1620da8c46e989cf5df9a68322d0
+INFO:     127.0.0.1:64048 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: b57c1a3fc8b745239889cfa4a8e93b08
+INFO:     127.0.0.1:60629 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60630 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60631 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60632 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: b57c1a3fc8b745239889cfa4a8e93b08
+INFO:     127.0.0.1:60633 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: cb78b11d9abe4913ae83c096905373d9
+Created new transport with session ID: a9faa753f72c457f8f0136b5a0b38645
+INFO:     127.0.0.1:57103 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57104 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57105 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57106 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57107 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57108 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57109 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57110 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57112 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:57113 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: cb78b11d9abe4913ae83c096905373d9
+INFO:     127.0.0.1:57114 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: a9faa753f72c457f8f0136b5a0b38645
+INFO:     127.0.0.1:57115 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: ecd078af01124a7695c1171a92bc170e
+Created new transport with session ID: dde91b333dc34e3c8db943f392a932e5
+INFO:     127.0.0.1:57119 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57120 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57121 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57122 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57123 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57124 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57125 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57126 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57132 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:57133 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: ecd078af01124a7695c1171a92bc170e
+INFO:     127.0.0.1:57134 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: dde91b333dc34e3c8db943f392a932e5
+INFO:     127.0.0.1:57135 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 568aaeb772d94fefadb2bc83a25add59
+INFO:     127.0.0.1:51027 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51028 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:51029 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51035 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:51061 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 568aaeb772d94fefadb2bc83a25add59
+INFO:     127.0.0.1:51068 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: d47a8399eaec4ac6ba7770dd2cf8b3a2
+INFO:     127.0.0.1:51072 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51073 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:51074 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:51075 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:51076 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: d47a8399eaec4ac6ba7770dd2cf8b3a2
+INFO:     127.0.0.1:51077 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: e44ea9ad4af54939bd3468b825973ca6
+INFO:     127.0.0.1:58200 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58201 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58202 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58203 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: e44ea9ad4af54939bd3468b825973ca6
+INFO:     127.0.0.1:58204 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 31bc3f0382134a5bb3d3f3e25514090a
+INFO:     127.0.0.1:57504 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57505 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57506 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57507 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57509 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 31bc3f0382134a5bb3d3f3e25514090a
+INFO:     127.0.0.1:57510 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 8a139268c90147f1a2ec56d7bc61dd09
+INFO:     127.0.0.1:63746 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63747 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:63748 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:63749 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:63751 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 8a139268c90147f1a2ec56d7bc61dd09
+INFO:     127.0.0.1:63752 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: afba1869f0744ad3a1bbab759e1cb12a
+INFO:     127.0.0.1:65131 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65132 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:65133 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65134 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:65136 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: afba1869f0744ad3a1bbab759e1cb12a
+INFO:     127.0.0.1:65137 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: deedda04ccd94cd0a775b4828660bd66
+INFO:     127.0.0.1:65376 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65377 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:65378 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65379 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: deedda04ccd94cd0a775b4828660bd66
+INFO:     127.0.0.1:65380 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 5b2d438fd95b40c88ec378bb81bb126f
+INFO:     127.0.0.1:60544 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60545 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60546 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60547 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60551 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 5b2d438fd95b40c88ec378bb81bb126f
+INFO:     127.0.0.1:60552 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 5f3e48e5a7fb4f9885dcf45dfecb9082
+INFO:     127.0.0.1:60559 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60560 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60561 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60562 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60564 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 5f3e48e5a7fb4f9885dcf45dfecb9082
+INFO:     127.0.0.1:60565 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 365846d399774afeb925151cd5468b43
+Created new transport with session ID: cc2df31cd8024382ba8aa2cd27f73d97
+Created new transport with session ID: 7a23c95f757c42e9b40d972cb9cd49dc
+INFO:     127.0.0.1:50677 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50678 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50679 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50680 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50681 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50682 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50683 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:50684 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50685 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50686 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50687 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50688 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:50690 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:50691 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:50692 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 365846d399774afeb925151cd5468b43
+INFO:     127.0.0.1:50693 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: cc2df31cd8024382ba8aa2cd27f73d97
+INFO:     127.0.0.1:50694 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 7a23c95f757c42e9b40d972cb9cd49dc
+INFO:     127.0.0.1:50695 - "DELETE /mcp HTTP/1.1" 200 OK
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Created new transport with session ID: e3b6fdc5c34b4346a26a41be335dcf7b
+Created new transport with session ID: 7565231fdb164217acbd783f1f5d686a
+Created new transport with session ID: b3df1df22dc341d4bb53592db409646e
+Created new transport with session ID: 9d91dcb76fce4dc7a79db85fde99fdf3
+Created new transport with session ID: e30cdb7cf03b479eaf978aa2d663a030
+INFO:     127.0.0.1:59990 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 67ad1fbda3a24f67add12af481a671ef
+INFO:     127.0.0.1:59991 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 78aeda0eee834e3084f2aec41993489b
+INFO:     127.0.0.1:59992 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 5ea3e781dbc246ada341e6595b40abbe
+INFO:     127.0.0.1:59993 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 83b2234e01444dc7ad45a9bbc3872c87
+INFO:     127.0.0.1:59994 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: b363e359817e422387069da28acc833c
+INFO:     127.0.0.1:59995 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 05cdb4d97ce949f7ae7b0ebfbfbd822d
+INFO:     127.0.0.1:59996 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: b175fb7f346142f09506000f4b39f9dd
+INFO:     127.0.0.1:59997 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 69ac5ff134bc4e609c5d52b2adef837f
+INFO:     127.0.0.1:59998 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: f0b44ea6636f41c69a424adbe6c78db8
+INFO:     127.0.0.1:59999 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: f72027d12b1849519a06e25d7117f86f
+INFO:     127.0.0.1:60000 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60006 - "POST /mcp HTTP/1.1" 202 Accepted
+Created new transport with session ID: 96438acd9d7b4701b95226c709b3656f
+INFO:     127.0.0.1:60001 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60002 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60007 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60008 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60003 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60004 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60009 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60010 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60005 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60011 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60012 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60013 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60014 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60015 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60016 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60017 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60019 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60018 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60020 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60023 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60021 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60024 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60025 - "POST /mcp HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60026 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60027 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60028 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60029 - "GET /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60031 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60030 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60032 - "POST /mcp HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60033 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60034 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60035 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60036 - "POST /mcp HTTP/1.1" 202 Accepted
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60037 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60038 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60039 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60040 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60041 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60042 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60043 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60044 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60045 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60046 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60047 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60048 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60049 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60050 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60051 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60052 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60053 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60054 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60055 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60056 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60057 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60058 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60059 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60060 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60061 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60062 - "POST /mcp HTTP/1.1" 200 OK
+Terminating session: e3b6fdc5c34b4346a26a41be335dcf7b
+INFO:     127.0.0.1:60064 - "DELETE /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60063 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60065 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60066 - "POST /mcp HTTP/1.1" 200 OK
+Terminating session: 7565231fdb164217acbd783f1f5d686a
+INFO:     127.0.0.1:60068 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60067 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Exception in callback _ProactorBasePipeTransport._call_connection_lost()
+handle: <Handle _ProactorBasePipeTransport._call_connection_lost()>
+Traceback (most recent call last):
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\events.py", line 94, in _run
+    self._context.run(self._callback, *self._args)
+    ~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\Ashwini Wandre\AppData\Local\Programs\Python\Python314\Lib\asyncio\proactor_events.py", line 165, in _call_connection_lost
+    self._sock.shutdown(socket.SHUT_RDWR)
+    ~~~~~~~~~~~~~~~~~~~^^^^^^^^^^^^^^^^^^
+ConnectionResetError: [WinError 10054] An existing connection was forcibly closed by the remote host
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60069 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Processing request of type ListToolsRequest
+Terminating session: b3df1df22dc341d4bb53592db409646e
+INFO:     127.0.0.1:60070 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60071 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60072 - "POST /mcp HTTP/1.1" 200 OK
+Terminating session: 9d91dcb76fce4dc7a79db85fde99fdf3
+INFO:     127.0.0.1:60073 - "DELETE /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: e30cdb7cf03b479eaf978aa2d663a030
+INFO:     127.0.0.1:60075 - "DELETE /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60074 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 67ad1fbda3a24f67add12af481a671ef
+INFO:     127.0.0.1:60076 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 78aeda0eee834e3084f2aec41993489b
+INFO:     127.0.0.1:60077 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 5ea3e781dbc246ada341e6595b40abbe
+INFO:     127.0.0.1:60078 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 83b2234e01444dc7ad45a9bbc3872c87
+INFO:     127.0.0.1:60079 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: b363e359817e422387069da28acc833c
+INFO:     127.0.0.1:60080 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 05cdb4d97ce949f7ae7b0ebfbfbd822d
+INFO:     127.0.0.1:60081 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: b175fb7f346142f09506000f4b39f9dd
+INFO:     127.0.0.1:60082 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 69ac5ff134bc4e609c5d52b2adef837f
+INFO:     127.0.0.1:60083 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: f0b44ea6636f41c69a424adbe6c78db8
+INFO:     127.0.0.1:60084 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: f72027d12b1849519a06e25d7117f86f
+INFO:     127.0.0.1:60085 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 96438acd9d7b4701b95226c709b3656f
+INFO:     127.0.0.1:60086 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: b61ae0965ab54c44bdf51f1b0b386f7a
+INFO:     127.0.0.1:60096 - "POST /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: a03dd9d1bc6e48ea91aca754177ce11a
+Created new transport with session ID: f7e585bfde7e4801aef7b8c7c01ce0e1
+Created new transport with session ID: 06b1019be0c14db79532e3a1bf631e23
+INFO:     127.0.0.1:60097 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60098 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60099 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60100 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60101 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60102 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60103 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60104 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60105 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60106 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:60107 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60108 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60109 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60110 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:60112 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:60113 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60114 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60116 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:60117 - "POST /mcp HTTP/1.1" 200 OK
+Terminating session: b61ae0965ab54c44bdf51f1b0b386f7a
+INFO:     127.0.0.1:60118 - "DELETE /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: a03dd9d1bc6e48ea91aca754177ce11a
+INFO:     127.0.0.1:60119 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: f7e585bfde7e4801aef7b8c7c01ce0e1
+INFO:     127.0.0.1:60120 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 06b1019be0c14db79532e3a1bf631e23
+INFO:     127.0.0.1:60121 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: ddb60c27a581498697730bb2d5e1dbe5
+Created new transport with session ID: 01000de519fa45c48e2f017eba04fbc4
+Created new transport with session ID: 1fe25126564c44928c8dc63361a11017
+INFO:     127.0.0.1:57270 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57271 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57272 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57273 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57274 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57275 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57276 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57277 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57278 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57279 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57280 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57281 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57284 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:57285 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:57286 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: ddb60c27a581498697730bb2d5e1dbe5
+INFO:     127.0.0.1:57287 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 01000de519fa45c48e2f017eba04fbc4
+INFO:     127.0.0.1:57288 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 1fe25126564c44928c8dc63361a11017
+INFO:     127.0.0.1:57289 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: ba3baf28e70d47a59429e40e9b1cd42f
+INFO:     127.0.0.1:57295 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57296 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57297 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57298 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: ba3baf28e70d47a59429e40e9b1cd42f
+INFO:     127.0.0.1:57299 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 14bf0de640da4ba59b6fbde390c24c16
+INFO:     127.0.0.1:57304 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57305 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57306 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57307 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57309 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 14bf0de640da4ba59b6fbde390c24c16
+INFO:     127.0.0.1:57310 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: c50cfef6e42744dc8bd00b0cba6a39a3
+INFO:     127.0.0.1:57316 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57317 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57318 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57319 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:57321 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: c50cfef6e42744dc8bd00b0cba6a39a3
+INFO:     127.0.0.1:57322 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 7575a7d5d47144eda5e77ebb9ca7c67a
+INFO:     127.0.0.1:52042 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52043 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:52044 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:52045 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 7575a7d5d47144eda5e77ebb9ca7c67a
+INFO:     127.0.0.1:52046 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 88897690be7e4f98b0bec3135324d859
+INFO:     127.0.0.1:64517 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64518 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:64519 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:64520 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:64522 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 88897690be7e4f98b0bec3135324d859
+INFO:     127.0.0.1:64523 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 292729ef38a74523a54dc3bfa7134e54
+INFO:     127.0.0.1:59517 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59518 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:59519 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:59520 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:59522 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 292729ef38a74523a54dc3bfa7134e54
+INFO:     127.0.0.1:59523 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: c4a83a208423451b8a4a2242dccea346
+INFO:     127.0.0.1:58939 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58941 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:58942 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:58943 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:49469 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: c4a83a208423451b8a4a2242dccea346
+INFO:     127.0.0.1:49470 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 1263a79842674b5db98ad7d63bf01dfe
+INFO:     127.0.0.1:55569 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55570 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:55571 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55572 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:55576 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 1263a79842674b5db98ad7d63bf01dfe
+INFO:     127.0.0.1:55577 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: d9b09fd4163643d7a828af6e68fcd37b
+INFO:     127.0.0.1:55602 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55603 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:55604 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55605 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:55607 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: d9b09fd4163643d7a828af6e68fcd37b
+INFO:     127.0.0.1:55608 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: d66e1d3443d44afbbc65af31d5a3a3ae
+INFO:     127.0.0.1:55615 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55616 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:55617 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:55618 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:55620 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: d66e1d3443d44afbbc65af31d5a3a3ae
+INFO:     127.0.0.1:55621 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 850b0add782c43f3ac0ad8066d75e7ea
+Created new transport with session ID: cf1e790ed14644d2b10e4fe7ed11b966
+INFO:     127.0.0.1:56983 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56984 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56985 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:56987 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:56986 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56988 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56989 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:56990 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:56993 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:56994 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 850b0add782c43f3ac0ad8066d75e7ea
+INFO:     127.0.0.1:56995 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: cf1e790ed14644d2b10e4fe7ed11b966
+INFO:     127.0.0.1:56996 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 0e86246b427044408aef6340750b507f
+INFO:     127.0.0.1:61489 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61490 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:61491 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:61492 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 0e86246b427044408aef6340750b507f
+INFO:     127.0.0.1:61493 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 2d5d923745c243468abfdcc56d4e8a6b
+Created new transport with session ID: a783129426d448a5b2423fbc713a3bdc
+INFO:     127.0.0.1:49308 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49309 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49310 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:49311 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49312 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:49313 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49314 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:49315 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:49317 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:49318 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 2d5d923745c243468abfdcc56d4e8a6b
+INFO:     127.0.0.1:49319 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: a783129426d448a5b2423fbc713a3bdc
+INFO:     127.0.0.1:49320 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 94fbc139440847bdb6b34450e9446668
+INFO:     127.0.0.1:57928 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57929 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:57930 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:57931 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 94fbc139440847bdb6b34450e9446668
+INFO:     127.0.0.1:57932 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 8fa7243c50e74504b7985e1884417e53
+Created new transport with session ID: 0b4a4f16656c4130bcfacaf16469febb
+INFO:     127.0.0.1:54059 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54060 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54061 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54062 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54063 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:54064 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:54065 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:54066 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:54068 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:54069 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 8fa7243c50e74504b7985e1884417e53
+INFO:     127.0.0.1:54070 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: 0b4a4f16656c4130bcfacaf16469febb
+INFO:     127.0.0.1:54071 - "DELETE /mcp HTTP/1.1" 200 OK
+Created new transport with session ID: 7605dc3f5a9d469ebcfca40851b8cc5f
+Created new transport with session ID: de299fd4f2af4c88848ceefeb00512f3
+INFO:     127.0.0.1:65410 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65411 - "POST /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65412 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:65414 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65415 - "POST /mcp HTTP/1.1" 202 Accepted
+INFO:     127.0.0.1:65416 - "GET /mcp HTTP/1.1" 200 OK
+INFO:     127.0.0.1:65417 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:65418 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type CallToolRequest
+INFO:     127.0.0.1:65420 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+INFO:     127.0.0.1:65421 - "POST /mcp HTTP/1.1" 200 OK
+Processing request of type ListToolsRequest
+Terminating session: 7605dc3f5a9d469ebcfca40851b8cc5f
+INFO:     127.0.0.1:65422 - "DELETE /mcp HTTP/1.1" 200 OK
+Terminating session: de299fd4f2af4c88848ceefeb00512f3
+INFO:     127.0.0.1:65423 - "DELETE /mcp HTTP/1.1" 200 OK
